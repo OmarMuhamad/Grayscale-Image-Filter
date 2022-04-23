@@ -1,5 +1,5 @@
-// FCAI – Programming 1 – 2022 - Assignment 3
-// Program Name: CS112-203-2nd – S8 - 20210273 - 20210013 - 20210112 - A3FULL.cpp
+// FCAI â€“ Programming 1 â€“ 2022 - Assignment 3
+// Program Name: CS112-203-2nd â€“ S8 - 20210273 - 20210013 - 20210112 - A3FULL.cpp
 // Last Modification Date: 23/4/2022
 // Omar Mohammad Fayek - 20210273 - A
 // Ahmed Gehad Mansour - 20210013 - A
@@ -43,8 +43,8 @@ void RotateImage180();      // to rotate the image by 180 deg
 void RotateImage270();      // to rotate the image by 270 deg
 void savenew_Image ();      // to save the enlarged image
 void enlarge();             // to enlarge the image
-void shuffle();
-void mirror();
+void shuffle();		    // to shuffle an image
+void mirror();		    // to mirror an image
 int main()
 {
       int choice; //declaring a variable typed integer
